@@ -1,0 +1,15 @@
+culture
+	Norse v.s. Vikings
+	territory
+	buildings(longhouse)
+	cleaning
+	saga, poetic edda, runestone
+equipment
+	what we see in pop culture v.s. how they really are
+		need to mention gambeson
+	axe, spear, sword
+		ulfberht, mammen's axe
+	shield, shield wall, testudo
+	boats
+extra
+	seige of paris
